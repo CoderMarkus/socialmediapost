@@ -10,6 +10,11 @@ console.clear();
 */
 
 // --v-- write your code here --v--
+const myTitle = "Welcome to the best socialmediasite you have ever seen";
+const myText = "I drive you crazy";
+const myLikes = 55;
+const userPost = "H.P Baxxter";
+const isReported = true;
 
 // --^-- write your code here --^--
 
@@ -19,4 +24,9 @@ console.clear();
 
 // --v-- write your code here --v--
 
+console.log(myTitle);
+console.log(myText);
+console.log(myLikes);
+console.log(userPost);
+console.log(isReported);
 // --^-- write your code here --^--
